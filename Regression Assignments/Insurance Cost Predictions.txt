@@ -1,0 +1,31 @@
+Problem  - 2 Medical Analysis 
+
+1. Understand the Data
+2. Do proper Diagonistics of the Data
+3. Prepare reporg in Tableau based on the Inisghts gather from the data
+4. Perform EDA on the dataset
+5. Build the Model to accurately predict the charges
+6. Show proper model diagonistics for validations.
+7. Share the Html file on mail.
+8. Upload it in the Github
+
+####################################################
+Columns
+
+age: age of primary beneficiary
+
+sex: insurance contractor gender, female, male
+
+bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
+objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
+
+children: Number of children covered by health insurance / Number of dependents
+
+smoker: Smoking
+
+region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+
+charges: Individual medical costs billed by health insurance
+
+############## Objective #############
+Can you accurately predict insurance costs?
